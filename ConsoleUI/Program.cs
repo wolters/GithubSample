@@ -10,7 +10,10 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World, 2014-08-24 1842");
+            Console.WriteLine("Hello World, 2014-08-27 2130");
+
+            Console.Write("\n\n\n\nPress Enter to continue...  ");
+            Console.ReadLine();
         }
     }
 }
